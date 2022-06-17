@@ -1,0 +1,37 @@
+#start-btn
+{
+    width: 10%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+.p
+{
+    width:30%;
+    height:40%;
+    border-color: aqua;
+    border-style: dashed;
+    border-width: 5px;
+}
+
+.p:hover{
+    border-radius:20px;
+}
+
+#flotter{
+    text-align: center;
+    background-color: grey;
+}
